@@ -28,6 +28,9 @@ build depends on:
 - A functioning basic LaTeX/TeX install with ``pdflatex``. If you run
   OS X, use `MacTeX`_
 
+Licensing
+----------------
+All the specs in this repo are available under the  `Creative Commons Share Alike 3.0 license<https://creativecommons.org/licenses/by-nc-sa/3.0/>`_.
 ``make all`` will build all documents in the ``source/`` folder.  The
 system builds all targets in ``build/``.
 
